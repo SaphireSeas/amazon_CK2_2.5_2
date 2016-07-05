@@ -1,0 +1,17 @@
+CHANGELOG
+
+Current Verion: 1.0.1
+
+Changes from 1.0.0 to 1.0.1
+Changed religion so amazon priests can marry
+Amazons can now navigate major rivers
+Removed irrelevant cbs
+Tweaked Amazon holy sites, renamed some counties
+Added a new Libyan Amazon kingdom title
+  - Added Historical (Mostly A-Historical) Amazons for new Realm
+  - Gave Canarias to the New Kahinid Queendom
+Separated amz_on_actions out from Vanilla on_actions
+  - Known Issues
+    - Kahinid *Sultanate* is currently in existance. This will be changed to our typical Queendom.
+Version 1.0.0
+Copy of Careful Plum's mod updated for CK2 2.4.2
